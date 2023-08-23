@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"lint": "standard",
+		"test": "node --test ./test/index.js"
+	},
+	"devDependencies": {
+		"standard": "17.1.0"
+	},
+	"eslintConfig": {
+		"extends": "standard"
+	}
+}
